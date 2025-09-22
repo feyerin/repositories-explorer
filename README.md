@@ -1,9 +1,11 @@
-# GitHub Explorer
+# Repositories Explorer
 
 A simple **GitHub user and repository explorer** built with **React** and **TypeScript**.  
 Search GitHub users, view their profiles, and browse repositories. Designed **mobile-first** with good UX.
 
 This project allows you to type a GitHub username, search for users, expand to see their repositories, and open any repository in a new tab. Loading states, errors, and empty states are handled gracefully. The app is fully responsive for mobile view.
+
+👉 **Live Demo:** [https://repositoriesexplorer.netlify.app/](https://repositoriesexplorer.netlify.app/)
 
 ---
 
@@ -21,7 +23,7 @@ This project allows you to type a GitHub username, search for users, expand to s
 
 ## Requirements
 
-- Node.js >= 16  
+- Node.js >= 20  
 - npm or yarn  
 
 > Note: Without a GitHub token, the GitHub API allows only 60 requests per hour per IP.
