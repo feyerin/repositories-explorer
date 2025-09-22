@@ -35,7 +35,7 @@ This project allows you to type a GitHub username, search for users, expand to s
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/fayerin/repositories-explorer.git
+git clone https://github.com/feyerin/repositories-explorer.git
 cd repositories-explorer
 npm install
 # or
@@ -47,8 +47,6 @@ yarn dev
 npm run dev
 # or
 yarn dev
-
----
 
 ---
 
